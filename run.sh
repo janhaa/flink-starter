@@ -1,0 +1,1 @@
+java -cp "target/flink-flow-preparation-1.0-SNAPSHOT.jar:dependencies/slf4j-1.7.28/*" eu.hhl.sensoring.StreamingJob
