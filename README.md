@@ -1,5 +1,5 @@
 # flink-starter
-Apache Flink boilerplate to build perfomant data streaming applications from.
+Apache Flink boilerplate to build performant data streaming applications from.
 
 https://flink.apache.org/
 
